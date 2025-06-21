@@ -22,10 +22,3 @@ A simple and offline AI-powered text summarizer that converts long text into **3
 - REST API (`requests`)
 
 ---
-
-## 🧪 How to Run
-
-### 1. Clone the repository:
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
